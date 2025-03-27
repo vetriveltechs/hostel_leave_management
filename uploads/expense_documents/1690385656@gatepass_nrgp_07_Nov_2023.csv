@@ -1,0 +1,5 @@
+S.No,"Bill No.","Ship From","Bill To","Ship To","Department Name","Machine No","Serial No","Requested By",Transport,"Vehicle Number","Request No","Requested Date","Part No.",Description,UOM,Quantity,Remarks
+1,NRGP-1006,"ANUGRAH METALS",,,Maintenance,MAC1001,SR1001,Suresh,Transport,TN709008,REQ0011,07-Nov-2023,03720132-COMPLETE-KIT,"SINGLE GRADE OUTLET CHUTE",Each,20,"- Remarks 2"
+2,NRGP-1006,"ANUGRAH METALS",,,Maintenance,MAC1001,SR1001,Suresh,Transport,TN709008,REQ0011,07-Nov-2023,000.08.08,"DRIVE ADJ. MOUNTING",Each,10,"- Remarks  1"
+3,NRGP-1004,"ANUGRAH METALS","SIEMENS LTD","NBM MEDIA PVT LTD",Maintenance,1001,1002,Suresh,12222,TN709008,1003,07-Nov-2023,01910681_SEALKIT,SEALKIT,Each,5,"- remarks 2"
+4,NRGP-1004,"ANUGRAH METALS","SIEMENS LTD","NBM MEDIA PVT LTD",Maintenance,1001,1002,Suresh,12222,TN709008,1003,07-Nov-2023,01174176DTZ,Starter,Each,255,"- remarks 1"
